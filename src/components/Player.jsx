@@ -67,7 +67,7 @@ const Player = () => {
             ref={seekBg}
           >
             <hr
-              className='h-1 border-none w-20 bg-green-800 rounded-full'
+              className='h-1 border-none w-0 bg-green-800 rounded-full'
               ref={seekBar}
             />
           </div>
